@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb)](https://github.com/carollyb/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Carolly's GitHub stats](https://github-readme-stats.vercel.app/api?username=acarollyb&show_icons=true&theme=merko)
 
 
 
