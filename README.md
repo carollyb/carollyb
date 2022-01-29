@@ -3,10 +3,10 @@
 #### 👩🏻‍💻 Me chamo Carolly e estudo Desenvolvimento Web Full Stack. Arquiteta de formação, sempre gostei de resolver quebra-cabeças. 
 #### 👾 Atualmente estudando React e aprofundando no JavaScript. 
 <hr>
-<div align="center" display="inline">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carollyb&show_icons=true&theme=radical" />
-</div><br>
+<div align="center" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carollyb&show_icons=true&theme=radical" />
+</div>
 <hr>
 <div>
   <div align="center">
