@@ -1,11 +1,12 @@
 ### Olá! 👋
 
-#### Me chamo Carolly e estudo Desenvolvimento Web. Arquiteta de formação, sempre gostei de resolver quebra-cabeças. Atualmente estudando React e aprofundando no JavaScript. 👾
+#### 👩🏻‍💻 Me chamo Carolly e estudo Desenvolvimento Web. Arquiteta de formação, sempre gostei de resolver quebra-cabeças. 
+#### 👾 Atualmente estudando React e aprofundando no JavaScript. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical)](https://github.com/carollyb/github-readme-stats)
-
-![Carolly's GitHub stats](https://github-readme-stats.vercel.app/api?username=carollyb&show_icons=true&theme=radical)
-
+<div style="display: inline_block"><br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical)](https://github.com/carollyb/github-readme-stats)
+  ![Carolly's GitHub stats](https://github-readme-stats.vercel.app/api?username=carollyb&show_icons=true&theme=radical)
+</div>
 
 
 <!--
