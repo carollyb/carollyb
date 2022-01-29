@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá! 👋
 
+#### Me chamo Carolly e estudo Desenvolvimento Web. Arquiteta de formação, sempre gostei de resolver quebra-cabeças. Atualmente estudando React e aprofundando no JavaScript. 👾
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb)](https://github.com/carollyb/github-readme-stats)
 <!--
 **carollyb/carollyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
