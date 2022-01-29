@@ -5,6 +5,6 @@
 
 <div align="center"><br>
   <img width="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical" />
-  <img width="180em" src="https://github-readme-stats.vercel.app/api?username=carollyb&show_icons=true&theme=radical" />
+  <img width="190px" src="https://github-readme-stats.vercel.app/api?username=carollyb&show_icons=true&theme=radical" />
 </div>
 
