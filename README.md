@@ -1,6 +1,7 @@
-### Olá! 👋
+## Olá! 👋
 
-#### 👩🏻‍💻 Me chamo Carolly e estudo Desenvolvimento Web Full Stack. Arquiteta de formação, sempre gostei de resolver quebra-cabeças. 
+### 👩🏻‍💻 Me chamo Carolly e estudo Desenvolvimento Web Full Stack. 
+#### 🧩 Arquiteta de formação, sempre gostei de resolver quebra-cabeças. 
 #### 👾 Atualmente estudando React e aprofundando no JavaScript. 
 <hr>
 <div align="center" >
