@@ -2,7 +2,10 @@
 
 #### Me chamo Carolly e estudo Desenvolvimento Web. Arquiteta de formação, sempre gostei de resolver quebra-cabeças. Atualmente estudando React e aprofundando no JavaScript. 👾
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb)](https://github.com/carollyb/github-readme-stats&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb)](https://github.com/carollyb/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 
 
 <!--
