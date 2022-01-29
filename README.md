@@ -22,7 +22,7 @@
 <hr>
   
  <div align="center">
-   <a href="https://www.linkedin.com/in/carollybarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="codewars.com/users/carollyb"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/carollybarbosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://codewars.com/users/carollyb" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
  </div>
   
