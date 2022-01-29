@@ -4,8 +4,8 @@
 #### 👾 Atualmente estudando React e aprofundando no JavaScript. 
 
 <div style="display: inline_block"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical)](https://github.com/carollyb/github-readme-stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=carollyb&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carollyb&show_icons=true&theme=radical" />
 </div>
 
 
