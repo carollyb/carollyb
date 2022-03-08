@@ -1,8 +1,8 @@
-## Olá! 👋
+## Hey there! 👋
 
-### 👩🏻‍💻 Me chamo Carolly e estudo Desenvolvimento Web Full Stack. 
-#### 🧩 Arquiteta de formação, sempre gostei de resolver quebra-cabeças. 
-#### 👾 Atualmente estudando React e aprofundando no JavaScript. 
+### 👩🏻‍💻 I'm Carolly, Full Stack Web Development student. 
+#### 🧩 Solving puzzles since I was a kid, I hold a bachelor degree in Architecture and Urban Design. 
+#### 👾 Currently focusing on MERN: MongoDB, Express, React and Node  
 <hr>
 <div align="center" >
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical" />
@@ -14,9 +14,11 @@
   <img alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
   <img alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  
   <img alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img alt="jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img alt="boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>    
-  <img alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="pyhton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
