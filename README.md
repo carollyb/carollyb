@@ -1,7 +1,7 @@
 ## Hey there! 👋
 
-### 👩🏻‍💻 I'm Carolly, Full Stack Web Development student. 
-#### 🧩 Solving puzzles since I was a kid, I hold a bachelor degree in Architecture and Urban Design. 
+### 👩🏻‍💻 I'm Carolly, Full Stack Web Development student 
+#### 🧩 I hold a bachelor degree in Architecture and Urban Design 
 #### 👾 Currently focusing on MERN: MongoDB, Express, React and Node  
 <hr>
 <div align="center" >
