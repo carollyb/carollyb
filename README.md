@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-### 👩🏻‍💻 I'm Carolly, Full Stack Web Development student 
+### 👩🏻‍💻 I'm Carolly, Web Development student 
 #### 🧩 I hold a bachelor's degree in Architecture and Urban Design 
 #### 👾 Currently focusing on MERN: MongoDB, Express, React and Node  
 <hr>
