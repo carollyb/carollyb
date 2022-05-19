@@ -1,8 +1,8 @@
 ## Hey there! 👋
 
-### 👩🏻‍💻 I'm Carolly, Web Development student 
+### 👩🏻‍💻 I'm Carolly, 26yo, Full Stack Developer 
 #### 🧩 I hold a bachelor's degree in Architecture and Urban Design 
-#### 👾 Currently focusing on MERN: MongoDB, Express, React and Node  
+#### 👾 Currently studying the MERN stack: MongoDB, Express, React and Node  
 <hr>
 <div align="center" >
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical" />
