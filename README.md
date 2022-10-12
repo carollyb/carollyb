@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-### 👩🏻‍💻 I'm Carolly, 26yo, Full Stack Web Developer 
+### 👩🏻‍💻 I'm Carolly, 27yo, Full Stack Web Developer 
 #### 👾 Currently working with the MERN stack: MongoDB, Express, React and Node
 #### 🧩 I hold a bachelor's degree in Architecture and Urban Design 
 <hr>
@@ -21,6 +21,7 @@
   <img alt="jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img alt="boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>    
   <img alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 </div>
 <hr>
   
