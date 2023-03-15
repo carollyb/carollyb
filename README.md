@@ -1,7 +1,7 @@
 ## Hey there! 👋
 
 ### 👩🏻‍💻 I'm Carolly, 27yo, Full Stack Web Developer 
-#### 👾 Currently working with the MERN stack: MongoDB, Express, React and Node
+#### 👾 Currently working with React and Node
 #### 🧩 I hold a bachelor's degree in Architecture and Urban Design 
 <hr>
 <div align="center" >
