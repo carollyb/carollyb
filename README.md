@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-### 👩🏻‍💻 I'm Carolly, 28yo, Full Stack Web Developer 
+### 👩🏻‍💻 I'm Carolly, Full Stack Web Developer 
 #### 👾 Currently working with React and Node
 #### 🧩 I hold a bachelor's degree in Architecture and Urban Design 
 <hr>
