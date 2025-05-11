@@ -1,7 +1,7 @@
 ## Hey there! 👋
 
 ### 👩🏻‍💻 I'm Carolly, Full Stack Web Developer 
-#### 👾 Currently working with React and Node
+#### 👾 Currently working with Next.js and React
 #### 🧩 I hold a bachelor's degree in Architecture and Urban Design 
 <hr>
 <div align="center" >
