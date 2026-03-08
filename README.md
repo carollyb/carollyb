@@ -1,8 +1,8 @@
 ## Hey there! 👋
 
-### 👩🏻‍💻 I'm Carolly, Full Stack Web Developer 
+### 👩🏻‍💻 I'm Carolly, Front-End Developer 
 #### 👾 Currently working with Next.js and React
-#### 🧩 I hold a bachelor's degree in Architecture and Urban Design 
+#### 🧩 Postgraduate program in Front-end Engineering - Ongoing
 <hr>
 <div align="center" >
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical" />
