@@ -3,12 +3,7 @@
 ### 👩🏻‍💻 I'm Carolly, Front-End Developer 
 #### 👾 Currently working with Next.js and React
 #### 🧩 Postgraduate program in Front-end Engineering - Ongoing
-<hr>
-<div align="center" >
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollyb&layout=compact&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carollyb&show_icons=true&theme=radical" />
-</div>
-<hr>
+
 <div>
   <div align="center">
   <img alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
@@ -17,9 +12,7 @@
   <img alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   <img alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  
-  <img alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/nextjs-original.svg" />
 </div>
 <hr>
   
